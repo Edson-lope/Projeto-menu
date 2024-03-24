@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    font-family: "Public Sans", sans-serif;
+    font-optical-sizing: auto;
+     font-weight: 300;
+    font-style: normal;
+}
+h1{
+    font-family: "Public Sans", sans-serif;
+    font-weight: 800;
+}
+.btn {
+    font-family: "Public Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+ 
+}
+

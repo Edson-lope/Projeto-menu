@@ -1,0 +1,28 @@
+@media(max-width: 770px){
+    .cabecalho{
+        height: 100%;
+        flex-direction: column;
+    }
+
+    .logo{
+        
+        justify-content: center;
+    }
+    
+    .img-logo{
+        width: 100px;
+    }
+    .logo h1{
+        padding-top: 20px;
+    }
+    .links{
+        flex-direction: column;
+    }
+
+    .menu a {
+        display: block;
+        margin-top: 15px;
+    }
+
+    
+}
